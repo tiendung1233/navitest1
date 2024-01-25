@@ -2,7 +2,7 @@
 
 name = "navi-test"
 client_id = "9b5ee52e4f68733be84532676b3d9754"
-application_url = "https://helping-india-debut-civilian.trycloudflare.com"
+application_url = "https://navi-test.onrender.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://helping-india-debut-civilian.trycloudflare.com/auth/callback",
-  "https://helping-india-debut-civilian.trycloudflare.com/auth/shopify/callback",
-  "https://helping-india-debut-civilian.trycloudflare.com/api/auth/callback"
+  "https://navi-test.onrender.com/auth/callback",
+  "https://navi-test.onrender.com/auth/shopify/callback",
+  "https://navi-test.onrender.com/api/auth/callback"
 ]
 
 [webhooks]
